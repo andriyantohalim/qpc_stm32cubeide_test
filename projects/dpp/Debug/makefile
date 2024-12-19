@@ -9,6 +9,12 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include frameworks/qpc/src/qs/subdir.mk
+-include frameworks/qpc/src/qf/subdir.mk
+-include frameworks/qpc/port/subdir.mk
+-include frameworks/qpc/FreeRTOS/MemMang/subdir.mk
+-include frameworks/qpc/FreeRTOS/ARM_CM7/r0p1/subdir.mk
+-include frameworks/qpc/FreeRTOS/subdir.mk
 -include Drivers/STM32H7xx_HAL_Driver/Src/subdir.mk
 -include Drivers/BSP/STM32H7xx_Nucleo/subdir.mk
 -include Core/Startup/subdir.mk

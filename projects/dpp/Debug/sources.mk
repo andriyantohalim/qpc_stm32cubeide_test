@@ -26,4 +26,10 @@ Core/Src \
 Core/Startup \
 Drivers/BSP/STM32H7xx_Nucleo \
 Drivers/STM32H7xx_HAL_Driver/Src \
+frameworks/qpc/FreeRTOS/ARM_CM7/r0p1 \
+frameworks/qpc/FreeRTOS/MemMang \
+frameworks/qpc/FreeRTOS \
+frameworks/qpc/port \
+frameworks/qpc/src/qf \
+frameworks/qpc/src/qs \
 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;dpp/frameworks/qpc/freertos_port&apos; to &apos;port&apos;" description="Rename resource &apos;freertos_port&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="frameworks/qpc/freertos_port" name="port" stamp="1734584901624" updateReferences="true"/>
+</session>
