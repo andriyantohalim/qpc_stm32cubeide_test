@@ -1,0 +1,9 @@
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:171:20:QEvt_verify_	24	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:85:6:QMsm_ctor	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:104:6:QMsm_init_	32	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:168:6:QMsm_dispatch_	48	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:343:6:QMsm_isIn_	32	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:371:17:QMsm_childStateObj	32	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:425:8:QMsm_execTatbl_	40	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:490:6:QMsm_exitToTranSource_	32	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_msm.c:530:8:QMsm_enterHistory_	56	static

@@ -1,0 +1,15 @@
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:179:28:QEvt_getPoolNum_	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:640:20:QPSet_setEmpty	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:657:20:QPSet_notEmpty	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:666:20:QPSet_hasElement	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:679:20:QPSet_insert	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:695:20:QPSet_remove	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:711:28:QPSet_findMax	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:725:20:QPSet_update_	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:737:20:QPSet_verify_	16	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp_pkg.h:77:20:QEvt_refCtr_inc_	24	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qf_ps.c:66:6:QActive_psInit	24	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qf_ps.c:87:6:QActive_publish_	48	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qf_ps.c:196:6:QActive_subscribe	24	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qf_ps.c:235:6:QActive_unsubscribe	24	static
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qf_ps.c:274:6:QActive_unsubscribeAll	32	static

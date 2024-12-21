@@ -1,0 +1,8 @@
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/include/qp.h:171:20:QEvt_verify_	3
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:112:6:QHsm_ctor	1
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:131:6:QHsm_init_	7
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:256:6:QHsm_dispatch_	15
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:473:6:QHsm_isIn_	4
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:513:15:QHsm_childState	4
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:555:13:QHsm_tran_	17
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/qpc_stm32cubeide_test/frameworks/qpc/src/qf/qep_hsm.c:712:8:QHsm_top	1
